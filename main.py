@@ -1,3 +1,3 @@
 print("hola mundo soy Juan Jose")
 
-print("Hola mundo soy Juan Comodoro")
+print("Esto cambio del repo original que esta haciendo el programador sin permiso...")
